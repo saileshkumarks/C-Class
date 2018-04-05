@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\C# Assignment 1\Part B\Time2SecondsFromMidnight\Time2\bin\Release\Time2.dll
+E:\Visual Studio Projects\C# Assignment 1\Part B\Time2SecondsFromMidnight\Time2\bin\Release\Time2.pdb
+E:\Visual Studio Projects\C# Assignment 1\Part B\Time2SecondsFromMidnight\Time2\obj\Release\Time2.dll
+E:\Visual Studio Projects\C# Assignment 1\Part B\Time2SecondsFromMidnight\Time2\obj\Release\Time2.pdb
+E:\Visual Studio Projects\C# Assignment 1\Part B\Time2SecondsFromMidnight\Time2\obj\Release\Time2.csprojResolveAssemblyReference.cache

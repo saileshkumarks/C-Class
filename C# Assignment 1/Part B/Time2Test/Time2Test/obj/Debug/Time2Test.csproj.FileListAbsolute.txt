@@ -1,0 +1,24 @@
+E:\Visual Studio Projects\C# Assignment 1\Time2Test\Time2Test\bin\Debug\Time2Test.exe.config
+E:\Visual Studio Projects\C# Assignment 1\Time2Test\Time2Test\obj\Debug\Time2Test.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C# Assignment 1\Time2Test\Time2Test\bin\Debug\Time2Test.exe
+E:\Visual Studio Projects\C# Assignment 1\Time2Test\Time2Test\bin\Debug\Time2Test.pdb
+E:\Visual Studio Projects\C# Assignment 1\Time2Test\Time2Test\bin\Debug\Time2.dll
+E:\Visual Studio Projects\C# Assignment 1\Time2Test\Time2Test\bin\Debug\Time2.pdb
+E:\Visual Studio Projects\C# Assignment 1\Time2Test\Time2Test\obj\Debug\Time2Test.exe
+E:\Visual Studio Projects\C# Assignment 1\Time2Test\Time2Test\obj\Debug\Time2Test.pdb
+E:\Visual Studio Projects\C# Assignment 1\Part A\Time2Test\Time2Test\bin\Debug\Time2Test.exe.config
+E:\Visual Studio Projects\C# Assignment 1\Part A\Time2Test\Time2Test\obj\Debug\Time2Test.exe
+E:\Visual Studio Projects\C# Assignment 1\Part A\Time2Test\Time2Test\obj\Debug\Time2Test.pdb
+E:\Visual Studio Projects\C# Assignment 1\Part A\Time2Test\Time2Test\bin\Debug\Time2Test.exe
+E:\Visual Studio Projects\C# Assignment 1\Part A\Time2Test\Time2Test\bin\Debug\Time2Test.pdb
+E:\Visual Studio Projects\C# Assignment 1\Part A\Time2Test\Time2Test\bin\Debug\Time2.dll
+E:\Visual Studio Projects\C# Assignment 1\Part A\Time2Test\Time2Test\bin\Debug\Time2.pdb
+E:\Visual Studio Projects\C# Assignment 1\Part A\Time2Test\Time2Test\obj\Debug\Time2Test.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C# Assignment 1\Part B\Time2Test\Time2Test\bin\Debug\Time2Test.exe.config
+E:\Visual Studio Projects\C# Assignment 1\Part B\Time2Test\Time2Test\obj\Debug\Time2Test.exe
+E:\Visual Studio Projects\C# Assignment 1\Part B\Time2Test\Time2Test\obj\Debug\Time2Test.pdb
+E:\Visual Studio Projects\C# Assignment 1\Part B\Time2Test\Time2Test\bin\Debug\Time2Test.exe
+E:\Visual Studio Projects\C# Assignment 1\Part B\Time2Test\Time2Test\bin\Debug\Time2Test.pdb
+E:\Visual Studio Projects\C# Assignment 1\Part B\Time2Test\Time2Test\bin\Debug\Time2.dll
+E:\Visual Studio Projects\C# Assignment 1\Part B\Time2Test\Time2Test\bin\Debug\Time2.pdb
+E:\Visual Studio Projects\C# Assignment 1\Part B\Time2Test\Time2Test\obj\Debug\Time2Test.csprojResolveAssemblyReference.cache

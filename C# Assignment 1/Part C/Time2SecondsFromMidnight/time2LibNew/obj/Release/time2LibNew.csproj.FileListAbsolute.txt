@@ -1,0 +1,4 @@
+E:\Visual Studio Projects\C# Assignment 1\Part C\Time2SecondsFromMidnight\time2LibNew\bin\Release\time2LibNew.dll
+E:\Visual Studio Projects\C# Assignment 1\Part C\Time2SecondsFromMidnight\time2LibNew\bin\Release\time2LibNew.pdb
+E:\Visual Studio Projects\C# Assignment 1\Part C\Time2SecondsFromMidnight\time2LibNew\obj\Release\time2LibNew.dll
+E:\Visual Studio Projects\C# Assignment 1\Part C\Time2SecondsFromMidnight\time2LibNew\obj\Release\time2LibNew.pdb
